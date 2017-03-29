@@ -1,0 +1,1 @@
+namelengthmax() % it is 63 in MATLAB 2017a
